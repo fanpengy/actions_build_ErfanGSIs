@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://pan.banli99.top/api/v3/file/source/6104/flyme.zip?sign=T0pV0mN3BEU8jIZU3RxJ7xVtLXrglSvUzhWx-_sFp3k%3D%3A0
   ROM_NAME: Flyme
-  BUILD_TYPE: a
+  BUILD_TYPE: aonly
   TZ: Asia/Shanghai
 
 jobs:
