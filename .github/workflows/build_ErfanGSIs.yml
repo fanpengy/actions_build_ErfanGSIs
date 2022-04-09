@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://aabkzj4xv5tnoiijdgkkdj7epf634888.node.ppio.cloud:3586/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/meizu17/8.2.0.1/cn/20210422104521/f965bcad/update.zip?f_ver=v1&max_age=7776000&r=KQcQAkNSeloEACEgFlQ1D28eARtKHXsWDQR8CwhHKh0gAQFddgQsGAdGPigITzJbdlxcXAJGZVtTRjAjTgd3WHBDUEACWWVBV1tiYgcMcV8jEAUWHx0lEQMdNmMbXDcuAwEcUww7RA0ZNiMCUSlb&ppiouid=62515f6c297a790001fb9a3575b3fd9e
+  ROM_URL: https://aabkzj4xv5tnoiijyqnkyeawyhwwa888.node.ppio.cloud:15364/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/16s/8.1.5.3/cn/20211228110054/b817c4a0/update.zip?f_ver=v1&max_age=7776000&r=UUQbBRQNaVofLEAXGzVHERddChwdQmgWFigdPAUmWANYQgpaIVs%2FGBxqA0wfew1aCB5aW1QYJRtWdwJIXWUHRgEBXkVXAnJaG30DTQ9gVEQWRR8RBkMjWwMsQlZAChsEUyhEFjVXFA8wW0U%3D&ppiouid=62516467259e9a000176a85275b3fd9e
   ROM_NAME: Flyme
   BUILD_TYPE: aonly
   TZ: Asia/Shanghai
