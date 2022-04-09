@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://media-sxxy-person.snoss.xstore.ctyun.cn/PERSONCLOUD/325ec5ed-dc66-4d80-84c1-6edcb37c0292.zip?x-amz-CLIENTTYPEIN=UNKNOWN&AWSAccessKeyId=B12spNbFIkHcJjk5MvKN&x-amz-userLevel=0&x-amz-limitip=5&x-amz-UID=763157955&response-content-disposition=attachment%3Bfilename%3D%22lineage-16.0-20190317-UNOFFICIAL-natrium.zip%22%3Bfilename*%3DUTF-8%27%27lineage-16.0-20190317-UNOFFICIAL-natrium.zip&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=PERSON&x-amz-limit=rate%3D51200%2Cconcurrency%3D10&Signature=07mAoCHRuf65JaAHqJCWfZBDn2Y%3D&x-amz-SHID=1138812684119&Expires=1649421115&x-amz-FSIZE=548354125&x-amz-UFID=41425315941205437
+  ROM_URL: https://aabkzj4xv5tnoiijqy2nefqknmp74888.node.ppio.cloud:12343/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/m6_note/8.0.5.0/cn/20210616122913/2e8a0610/update.zip?f_ver=v1&max_age=7776000&r=HiwnNhBSZmUuWCVURSZDFlg1Ni8ZHWcpJ1x4f1s1XAQXKjZpJQQwJy0eOg9tKV4HE3draFNGfGR4HjRXHXUBQUdoZXdVWXt4cQBkFgAiCRJGbmJ2TB05LilFMhdILkEZKDYoAAwneydBMldRI19C&ppiouid=62515a07297a790001022aa475b3fd9e
   ROM_NAME: Generic
   BUILD_TYPE: aonly
   TZ: Asia/Shanghai
